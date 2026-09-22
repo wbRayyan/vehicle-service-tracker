@@ -115,5 +115,3 @@ POST /api/cars/1/services
     "notes": "Full synthetic oil used"
 }
 ```
-
-## Project Structure
