@@ -115,3 +115,24 @@ POST /api/cars/1/services
     "notes": "Full synthetic oil used"
 }
 ```
+## Project Structure
+
+```text
+app/
+├── Http/Controllers/
+│   ├── CarController.php
+│   └── ServiceRecordController.php
+└── Models/
+    ├── Car.php
+    └── ServiceRecord.php
+database/
+└── migrations/
+routes/
+└── api.php
+
+
+## Author
+
+**Rayan Bhatti**
+- GitHub: [@wbRayyan](https://github.com/wbRayyan)
+- LinkedIn: [linkedin.com/in/wb-rayan-bhatti](https://linkedin.com/in/wb-rayan-bhatti)
